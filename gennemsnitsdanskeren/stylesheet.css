@@ -1,0 +1,16 @@
+* {
+    background-color: #4c4272;
+}
+
+.navbar-brand {
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+    -webkit-box-reflect: below 1px linear-gradient (transparent, y#0004);
+}
+
+.drink {
+width: 50px;
+margin-bottom: 35px;
+}
+
+
